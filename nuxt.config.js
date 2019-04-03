@@ -33,12 +33,7 @@ module.exports = {
   /*
    ** Nuxt.js modules
    */
-  modules: [
-    '@nuxtjs/axios',
-    ['@nuxtjs/moment', ['pt-br']],
-    '@nuxtjs/pwa',
-    'vuetify-dialog/nuxt',
-  ],
+  modules: ['@nuxtjs/axios', '@nuxtjs/pwa', 'vuetify-dialog/nuxt'],
   manifest: {
     name: 'eBaywatch',
     short_name: 'eBaywatch',
