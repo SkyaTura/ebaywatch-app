@@ -26,7 +26,6 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) as structural framework
 - [Vuetify.js](https://vuetifyjs.com/) as main visual component framework
 - [Axios Module](https://axios.nuxtjs.org) for REST requests
-- [Moment Module](https://github.com/nuxt-community/moment-module) for Date handling
 - [PWA Module](https://pwa.nuxtjs.org) because webapps is never too much
 - [Pug.js](https://pugjs.org/) as HTML pre-processor and main template language
 - [Sass](https://sass-lang.com/) as CSS pre-processor and main style language

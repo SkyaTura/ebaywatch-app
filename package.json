@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
-    "@nuxtjs/moment": "^1.1.0",
     "@nuxtjs/pwa": "^2.6.0",
     "debounce": "^1.2.0",
     "nuxt": "^2.3.4",
