@@ -2,6 +2,10 @@
 
 > A simple proof of concept of an ebay pricing scrapper and notifier
 
+## Demo
+
+You can test this project clicking [here](https://ebaywatch.emiolo.com.br)
+
 ## Build Setup
 
 ``` bash
