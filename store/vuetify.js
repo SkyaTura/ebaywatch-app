@@ -11,7 +11,7 @@ export const state = () => ({
     items: [
       { icon: 'search', title: 'Search products', to: '/' },
       { icon: 'trending_up', title: 'Tracked prices', to: '/tracking' },
-      { icon: 'info_outline', title: 'About eMiolo.com', to: '/about' },
+      // { icon: 'info_outline', title: 'About eMiolo.com', to: '/about' },
     ],
   },
   toolbar: {
