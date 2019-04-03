@@ -6,7 +6,7 @@ v-container.pt-2(fill-height)
         v-flex(xs12)
           v-card.transparent(flat)
             SearchField.pb-0(v-model="searchString")
-              template(slot="append")
+              //- template(slot="append")
                 v-btn(icon flat color="grey darken-1")
                   v-icon settings
           v-layout.py-2(v-if="searchResult.related.length" row wrap align-center justify-center)
