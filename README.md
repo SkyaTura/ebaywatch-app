@@ -35,3 +35,6 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 - [Vue.js Style Guide](https://vuejs.org/v2/style-guide/) (all recommended rules)
 - [Gitmoji](https://github.com/carloscuesta/gitmoji) as commit message standard
 - [Git Flow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) as branching standard
+
+## Project explanation
+Please check the API documentation for further explanation.
